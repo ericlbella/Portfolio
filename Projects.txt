@@ -1,0 +1,110 @@
+line 82 and 93 - card
+
+
+div id="projects" class="container-fluid">
+            <div class="post-heading text-center">
+                <h3 class="Level">Projects</h3>
+                <hr class="hr">
+            </div>
+    <div class="container">
+
+
+     <div class="row justify-content-around">
+        <div class="col-sm">
+            <div class="card" style="width: 235px; height: 44px; margin-left:33%">
+                <img class="img" src="/Assetts/Static Store Front/StaticStoreFront.jpg" alt="Static Store Front">
+                <div class="card-body">
+                    <h5 class="card-title h5" class="h5"><center>Static Store Front</center><h5>
+                    <p style="font-family:'Times New Roman', Times, serif"card-text><center>Example Store Front created using HTML and CSS</center></p>
+                    <center><a href="/Assetts/Static Store Front/index.html" class="btn btn-primary">Click to go to Static Store Front</a></center>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-sm ">
+            <div class="card" style="width: 235px; height: 44px;">
+                <img class="img" src="/Assetts/Dog.jpg" alt="Dog Face">
+                <div class="card-body">
+                    <h5 class="card-title h5" class="h5">
+                    <center>CSS Creature</center>
+                    <h5>
+                        <p style="font-family:'Times New Roman', Times, serif" card-text>
+                            <center>CSS Creature built using a combination of HTML and CSS</center>
+                        </p>
+                        <center><a href="https://codepen.io/ericlbella/pen/abZXjNW" class="btn btn-primary">Click to go to CSS
+                                Creature</a></center>
+                </div>
+            </div>
+        </div>
+        
+        <!--<div class="col-sm">
+            <div class="card" style="width: 235px">
+                <img class="img" src="/Assetts/BusinessChallenges.jpg" alt="Business Challenges">
+                <div class="card-body">
+                    <h5 class="card-title h5" class="h5">
+                        <center>Business Challenges</center>
+                        <h5>
+                            <p style="font-family:'Times New Roman', Times, serif" card-text>
+                                <center>Business Challenges solved using C#</center>
+                            </p>
+                            <center><a href="https://github.com/ericlbella/GoldBadgeChallenges" class="btn btn-primary">Click to go to
+                                    Business Challenges</a></center>
+                </div>
+            </div>
+        </div>-->
+    </div>
+
+    
+    <div class="row">
+        <div class="col-sm">
+            <div class="card" style="width: 235px">
+                <img class="img" src="/Assetts/BusinessChallenges.jpg" alt="Gold Badge Challenges">
+                <div class="card-body">
+                    <h5 class="card-title h5" class="h5">
+                        <center>Gold Badge Challenges</center>
+                        <h5>
+                            <p style="font-family:'Times New Roman', Times, serif" card-text>
+                                <center>Gold Badge Challenges in C#</center>
+                            </p>
+                            <center><a href="https://github.com/ericlbella/GoldBadgeChallenges" class="btn btn-primary">Click to go to
+                                    Gold Badge Challenges</a></center>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm">
+            <div class="card" style="width: 235px">
+                <img class="img" src="/Assetts/BlueBadgeCasino.jpg" alt="Blue Badge Casnio">
+                <div class="card-body">
+                    <h5 class="card-title h5" class="h5">
+                        <center>Blue Badge Casino</center>
+                        <h5>
+                            <p style="font-family:'Times New Roman', Times, serif" card-text>
+                                <center>Group project utilizing ASP.NET with APIs.</center>
+                            </p>
+                            <center><a href="https://github.com/JoshuaCHartman/BlueBadgeCasino" class="btn btn-primary">Click to go to Blue Badge Casnio</a></center>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm ">
+            <div class="card" style="width: 235px">
+                <img class="img" src="/Assetts/MinistryPlanner.jpg" alt="Ministry Planner">
+                <div class="card-body">
+                    <h5 class="card-title h5" class="h5">
+                        <center>Ministry Planner</center>
+                        <h5>
+                            <p style="font-family:'Times New Roman', Times, serif" card-text>
+                                <center>ASP.NET with MVC Web Application</center>
+                            </p>
+                            <center><a href="https://github.com/ericlbella/MinistryPlanner" class="btn btn-primary">Click to got o Ministry Planner</a></center>
+          
+                </div>
+            </div>
+        </div>
+        
+</div>
+    
+        
+        
+   </div>
+</div>
